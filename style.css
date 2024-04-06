@@ -350,7 +350,7 @@
     align-items: flex-start;
     background-image: url("img/banner/b17.jpg");
     /* min-width: 850px; */
-    min-width: 700px;
+    min-width: 600px;
     height: 50vh;
     background-size: cover;
     background-position: center;
